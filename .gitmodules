@@ -1,0 +1,9 @@
+[submodule "interfaces/stable-diffusion-webui"]
+	path = interfaces/stable-diffusion-webui
+	url = https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
+[submodule "extenstions/sd-webui-controlnet"]
+	path = extenstions/sd-webui-controlnet
+	url = https://github.com/Mikubill/sd-webui-controlnet
+[submodule "extenstions/posex"]
+	path = extenstions/posex
+	url = https://github.com/hnmr293/posex.git
